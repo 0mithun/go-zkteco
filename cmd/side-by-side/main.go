@@ -19,12 +19,12 @@ const (
 )
 
 var (
-	host     = flag.String("host", "frp.utso.app", "Device host")
+	host     = flag.String("host", "example.com", "Device host")
 	port     = flag.Int("port", 7001, "Device port")
 	protocol = flag.String("protocol", "tcp", "Protocol: tcp or udp")
 	timeout  = flag.Int("timeout", 30, "Timeout in seconds")
 	password = flag.Int("password", 0, "Device password (0=none)")
-	tcpmux   = flag.String("tcpmux", "", "TCPMUX proxy host:port/subdomain (e.g. frp.utso.app:1337/zkteco)")
+	tcpmux   = flag.String("tcpmux", "", "TCPMUX proxy host:port/subdomain (e.g. example.com:1337/zkteco)")
 
 	passed  int
 	failed  int
