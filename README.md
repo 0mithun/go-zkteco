@@ -1,7 +1,7 @@
 
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/0mithun/go-zkteco/main/docs/device.png" alt="ZKTeco Device" width="400"/>
+    <img src="https://raw.githubusercontent.com/0mithun/go-zkteco/main/docs/device.jpg" alt="ZKTeco Device" width="400"/>
 </p>
 
 # go-zkteco
