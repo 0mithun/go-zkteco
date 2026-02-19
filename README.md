@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="docs/device.png" alt="ZKTeco Device" width="400"/>
+    <img src="./docs/device.png" alt="ZKTeco Device" width="400"/>
 </p>
 
 # go-zkteco
