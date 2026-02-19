@@ -1,3 +1,8 @@
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/0mithun/php-zkteco/main/docs/device.png" alt="ZKTeco Device" width="400"/>
+</p>
+
 # go-zkteco
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/0mithun/go-zkteco.svg)](https://pkg.go.dev/github.com/0mithun/go-zkteco)
